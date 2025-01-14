@@ -1,0 +1,16 @@
+{
+  "name": "DeSpeed-bot",
+  "version": "1.0.0",
+  "description": "Single account DeSpeed bot",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "dependencies": {
+    "https-proxy-agent": "^5.0.1",
+    "node-fetch": "^2.7.0",
+    "socks-proxy-agent": "^7.0.0",
+    "uuid": "^8.3.2",
+    "ws": "^8.18.0"
+  }
+}
