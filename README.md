@@ -350,8 +350,7 @@ df -h
 ```
 
 3. **Contact the author**
-- Twitter: [@questmeairdrop](https://x.com/questmeairdrop)
-- Telegram: [@questairdrop](https://t.me/questairdrop)
+- Telegram: ([https://t.me/superbianz])
 
 ## ⚠️ Disclaimer
 
